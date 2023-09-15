@@ -7,7 +7,7 @@ body {
   font-weight: normal;
   text-align: start;
   border-radius: 1rem;
-  background-color: #c1cc87;
+  background-color:hsl(69, 33%, 54%);
   color: black;
 }
 
@@ -18,7 +18,7 @@ body {
   margin-top: 5rem;
   padding: 2rem;
   color: black;
-  background-color:#a4b063;
+  background-color: hsl(70, 40%, 66%);
   border-radius: 1rem;
 
 }
@@ -28,16 +28,16 @@ body {
   font-family: 'Oswald', sans-serif;
   padding: 0.5rem;
   margin: auto;
-color: #fbfb84;
-background-color: #1e1b3d;
+color: hsl(47, 100%, 67%);
+background-color: hsl(245, 39%, 17%);
 text-decoration: none;
 border-radius: 1rem;
 }
 
 /* Hover state */
 .cta a:hover {
- background-color: #243295;
-color: #f8f81b;
+ background-color: hsl(233, 61%, 36%);
+color: hsl(0, 0%, 100%);
 }
 
 /* Click state */
