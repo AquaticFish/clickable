@@ -1,21 +1,43 @@
 /* Body text */
 body {
-
+  font-family: 'Source Sans 3', sans-serif;
+  margin: auto;
+  font-size: 14px;
+  padding: 4rem;
+  font-weight: normal;
+  text-align: start;
+  border-radius: 1rem;
+  background-color: #c1cc87;
+  color: black;
 }
 
 /* Call-to-action container */
 .cta {
+  max-width: 30ch;
+  margin: auto;
+  margin-top: 5rem;
+  padding: 2rem;
+  color: black;
+  background-color:#a4b063;
+  border-radius: 1rem;
 
 }
 
 /* Call to Action "button" */
 .cta a, .cta a:visited {
-
+  font-family: 'Oswald', sans-serif;
+  padding: 0.5rem;
+  margin: auto;
+color: #fbfb84;
+background-color: #1e1b3d;
+text-decoration: none;
+border-radius: 1rem;
 }
 
 /* Hover state */
 .cta a:hover {
-
+ background-color: #243295;
+color: #f8f81b;
 }
 
 /* Click state */
